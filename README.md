@@ -23,10 +23,14 @@
 
 This project is the back-end logic of an e-commerce application. It defines the data needed to represent Products, Categories, and Tags as well as the relationships between them. Using Insomnia a user can exercise the routes of this express server to perform Create, Read, Update and Delete operations on all the major models represented in the application database.
 
+### Demo Video
+
+
+
 <a name="installation"></a>
 ## Installation
     
-Clone the repo, install node and all dependencies, use the db/schema.sql file to create the database locally, then run node seeds/index.js to seed the initial data.
+Clone the repo, install node and all dependencies, set up the .env file with your MySQL usetname and password, use the db/schema.sql file to create the database locally, then run node seeds/index.js to seed the initial data.
 
 <a name="usage"></a>
 ## Usage
@@ -48,7 +52,7 @@ No tests at this tiime.
   
 MIT License
 
-        Copyright (c) [year] [fullname]
+        Copyright (c) 2021 Cristina Gorrino
         
         Permission is hereby granted, free of charge, to any person obtaining a copy
         of this software and associated documentation files (the "Software"), to deal
