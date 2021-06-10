@@ -27,7 +27,7 @@ This project is the back-end logic of an e-commerce application. It defines the 
 
 Part 1: https://drive.google.com/file/d/1oR9QoeZar-V6xqQAVI7qKnyUk_r-zmbP/view
 
-Part 2: 
+Part 2: https://drive.google.com/file/d/1LLbHPtGIEvWTHNNa1IVA3Qph_hMlLkPK/view
 
 <a name="installation"></a>
 ## Installation
